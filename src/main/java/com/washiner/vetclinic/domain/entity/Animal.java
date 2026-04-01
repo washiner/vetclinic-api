@@ -15,7 +15,7 @@ import java.time.LocalDate;
 @AllArgsConstructor
 @EqualsAndHashCode(onlyExplicitlyIncluded = true)
 @Builder
-@Table(name = "animal")
+@Table(name = "animais")
 public class Animal {
 
     @Id
